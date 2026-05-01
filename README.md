@@ -20,5 +20,8 @@ This project demonstrates a practical application of risk management and control
 - Gap Analysis
 - Recommendations
 
+## 🚀 Risk Register
+See full risk register: /risk-assessment/risk-register.xlsx
+
 ## 🔥 Summary
 This project bridges technical security testing with governance (GRC).
